@@ -7,13 +7,6 @@ NEXT.js 12 ✔️ | REACT.js ✔️ | HTML5/CSS ✔️ | TAILWINDCSS 3.0 ✔️ 
 gRPC API ✔️ | GoGorilla RestAPI ✔️ | MongoDB ✔️ | Redis ✔️ | GraphQL ✔️ | Docker ✔️ | ...
 
 Go ⚡ | Javascript ⚡ | Typescript ⚡ | ...
-
-🌱 Flutter (DART) for cross-platform apps on any screen
-
-🌱 D3.js / SVG / three.JS for data visualization
-
----
-
 <!--
 **btodb/btodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
