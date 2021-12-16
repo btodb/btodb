@@ -1,7 +1,3 @@
-### Hi there 👋
-
-### Ecosystem ### 
-
 NEXT.js 12 ✔️ | REACT.js ✔️ | HTML5/CSS ✔️ | TAILWINDCSS 3.0 ✔️ | Cypress ✔️ | ...
 
 gRPC API ✔️ | GoGorilla RestAPI ✔️ | MongoDB ✔️ | Redis ✔️ | GraphQL ✔️ | Docker ✔️ | ...
